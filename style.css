@@ -57,7 +57,7 @@ body{
 .footer-content{
     text-align: center;
     font-size: 19px;
-    margin-top: -7px;
+    margin-bottom:0;
     border: 1px solid #000;
     background:#f5d8f1;
     float: bottom;
