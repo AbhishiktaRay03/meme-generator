@@ -73,13 +73,13 @@ body{
     text-decoration: none;
     color: #4f024f;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:450px){
     .container h3{
         font-size:1rem ;
     }
     .container{
         padding: 3rem ;
-        margin: 18rem auto;
-        
+        margin: 15rem auto;
+        max-width: 70%;
     }
 }
