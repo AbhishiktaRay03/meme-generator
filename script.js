@@ -6,6 +6,7 @@ let url="https://meme-api.com/gimme/";
 //subreddits
 let subreddits= ["catmemes","dogmemes","wholesomemes","me_irl"];
 
+
 //FUNCTION TO GET RANDOM MEME
 let getMeme =() =>{
     let randomsubreddit=subreddits[Math.floor(Math.random()*subreddits.length)];
