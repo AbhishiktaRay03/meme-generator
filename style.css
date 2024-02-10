@@ -71,6 +71,7 @@ body{
     text-decoration: none;
     color: #4f024f;
 }
+
 @media screen and (max-width:480px){
     .container h3{
         font-size:1rem ;
