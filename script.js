@@ -19,7 +19,6 @@ let getMeme =() =>{
         };
         memeImg.src =  data.url;
     });
-    
 };
 
 getMemeBtn.addEventListener("click",getMeme);
